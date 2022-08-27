@@ -1,0 +1,20 @@
+.principal {
+    height: 10em;
+    position: relative;
+}
+
+.principal__titulo {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Inter', sans-serif;
+    font-size: 54px;
+    font-weight: 700;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 15%;
+
+}

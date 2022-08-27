@@ -1,0 +1,26 @@
+header {
+    background-color: rgba(0, 0, 0, 0.5);
+    box-shadow: 6px 8px 4px rgba(0, 0, 0, 0.24);
+}
+
+.menu-logo {
+    width: 4%;
+}
+
+.menu-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 5%;
+}
+
+.menu__link {
+    padding-right: 41px;
+    font-family: 'Inter', sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    text-decoration: none;
+    color: #ffffff;
+
+
+}
